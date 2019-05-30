@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516868592553",
+    "firebase_url": "https://talk2us-9a449.firebaseio.com",
+    "project_id": "talk2us-9a449",
+    "storage_bucket": "talk2us-9a449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516868592553:android:1211f7114048549f",
+        "android_client_info": {
+          "package_name": "com.alonemusk.talk2us"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516868592553-q7jcg53fvgqdh1846dj08fqjuh66d74h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alonemusk.talk2us",
+            "certificate_hash": "1d960af7e928e8adc8659aa331e8d10788816b3d"
+          }
+        },
+        {
+          "client_id": "516868592553-e0h5f78upf9o4tlh412advcbaea9eaun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LNsH-cFoSJOol4Qoun2ou2eZssWn5Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516868592553-e0h5f78upf9o4tlh412advcbaea9eaun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
